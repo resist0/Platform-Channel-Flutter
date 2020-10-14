@@ -1,5 +1,5 @@
 # Platform-Channel
-<h4>Fazer chamadas de métodos nativos escritos Kotlin, por meio da linguagem Dart com o conceito do Platform Channel.</h4>
+<h4>Fazer chamadas de métodos nativos escritos em Kotlin, por meio da linguagem Dart com o conceito do Platform Channel.</h4>
 
 <blockquote>O Flutter nos permite chamar APIs
 específicas escritas em código Java ou Kotlin
